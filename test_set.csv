@@ -1,0 +1,13 @@
+question,expected_page
+What does BERT stand for?,1
+What GLUE score does BERT reach according to the abstract?,1
+"What are the layers, hidden size and parameters of BERT-BASE?",3
+What vocabulary size does BERT's WordPiece embedding use?,4
+What percentage of tokens are masked in the masked LM task?,4
+"How are chosen tokens replaced: MASK, random and unchanged proportions?",4
+Which datasets are used as the pre-training corpus?,5
+What batch size and number of epochs are used for GLUE fine-tuning?,6
+How does BERT handle SQuAD 2.0 questions that have no answer?,7
+What happens to performance when the NSP task is removed?,8
+What was the best feature-based method for NER?,9
+How long did BERT pre-training take and on how many TPUs?,13

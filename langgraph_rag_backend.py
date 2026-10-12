@@ -1,3 +1,6 @@
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 75
+TOP_K = 8
 from __future__ import annotations
 
 import os
