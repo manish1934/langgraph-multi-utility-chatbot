@@ -4,4 +4,4 @@ __pycache__/
 *.db-shm
 *.db-wal
 venv/
-.venv/
+.venv/.env
